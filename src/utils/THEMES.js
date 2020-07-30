@@ -1,0 +1,118 @@
+export const Themes = 
+  [
+  {
+  	gradient:['#d5d4d0','#d5d4d0','#eeeeec','#efeeec','#e9e9e7'],
+	color:'#2A3A30',
+	location:[0,.1,.31,.75,1], 
+	PRIMARY:'#02733E',
+	BG: '#F2F2F2',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#E3E9EB',
+	PRIMARY_TEXT:'#2A3A30',
+	SECONDARY_TEXT:'#4E5355',
+	ACCENT:'#798C91',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+   {
+	PRIMARY:'#b69034',
+	gradient:['#d5d4d0','#d5d4d0','#eeeeec','#efeeec','#e9e9e7'],
+	color:'#2A3A30',
+	location:[0,.1,.31,.75,1],
+	BG: '#F2F2F2',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#E3E9EB',
+	PRIMARY_TEXT:'#2A3A30',
+	SECONDARY_TEXT:'#4E5355',
+	ACCENT:'#ebdc5a',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+  
+  {
+  	gradient:['#d5d4d0','#d5d4d0','#eeeeec','#efeeec','#e9e9e7'],
+	color:'#2A3A30',
+	location:[0,.1,.31,.75,1],
+	PRIMARY:'#F25C69',
+	BG: '#303841',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#3a4750',
+	PRIMARY_TEXT:'#eeeeee',
+	SECONDARY_TEXT:'#eaeaea',
+	ACCENT:'#798C91',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+{
+	gradient:['#222831','#393e46'],
+	color:'#fff',
+	location:[0,1], 
+	PRIMARY:'#00adb5',
+	BG: '#222831',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#393e46',
+	PRIMARY_TEXT:'#eeeeee',
+	SECONDARY_TEXT:'#eaeaea',
+	ACCENT:'#798C91',
+	ACTIVE:'#364f6b',
+	RECORD:'#FB0C09',
+
+},
+
+{ 
+	gradient:['#c4c5c7','#dcdddf','#ebebeb'],
+	color:'#2A3A30',
+	location:[0,.52,1], 
+	PRIMARY:'#0078D7',
+	BG: '#fafafa',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#e8f1f5',
+	PRIMARY_TEXT:'#2A3A30',
+	SECONDARY_TEXT:'#4E5355',
+	ACCENT:'#798C91',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+{
+	gradient:['#307672','#307672'],
+	color:'#FFF',
+	location:[0,1], 
+	PRIMARY:'#e4eddb',
+	BG: '#1a3c40',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#307672',
+	PRIMARY_TEXT:'#bbe1fa',
+	SECONDARY_TEXT:'#bbe1fa',
+	ACCENT:'#798C91',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+{
+	gradient:['#d5d4d0','#d5d4d0','#eeeeec','#efeeec','#e9e9e7'],
+	color:'#2A3A30',
+	location:[0,.1,.31,.75,1],
+	PRIMARY:'#143a52',
+	BG: '#e3eff3',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#cde3eb',
+	PRIMARY_TEXT:'#222831',
+	SECONDARY_TEXT:'#303841',
+	ACCENT:'#798C91s',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+},
+{
+	gradient:['#d5d4d0','#d5d4d0','#eeeeec','#efeeec','#e9e9e7'],
+	color:'#2A3A30',
+	location:[0,.1,.31,.75,1],
+	PRIMARY:'#ffa41b',
+	BG: '#ffffff',
+	PRIMARY_BG:'#145A0Fe6',
+	SECONDARY_BG:'#005082',
+	PRIMARY_TEXT:'#222831',
+	SECONDARY_TEXT:'#303841',
+	ACCENT:'#798C91',
+	ACTIVE:'#8FBFA9',
+	RECORD:'#FB0C09'
+}
+]

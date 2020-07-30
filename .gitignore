@@ -10,5 +10,17 @@ npm-debug.*
 web-build/
 web-report/
 
+*.aab
+*.ipa
+*.afdesign
+*.psd
+*.afphoto
+
 # macOS
 .DS_Store
+
+dist
+
+.idea
+
+design

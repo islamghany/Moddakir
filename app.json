@@ -13,7 +13,15 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#02733E"
+    },
+    "ios": {
+      "bundleIdentifier": "com.islamghany.Moddakir",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.islamghany.Moddakir",
+      "versionCode": 1
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,8 +29,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
+    "ios": {   
       "supportsTablet": true
-    }
+    },
+    "description": "Islamic app for reading the Holy Quran and show the tafseer of the verse more thing, and also the app is able follow you when you stop and send you a notification to till you to continue, also it has a more feature like recording your voice and share it also have the azkar and more."
   }
 }
