@@ -23,16 +23,40 @@ islamic app
   <li>Put a mark when you stop in specific ayah that you can return to it easily</li>
   <li>Put a mark when you stop in specific ayah that you can return to it easily</li>
   <li>Searching for an specific ayah by any keyword</li>
-<ul>
+</ul>
 
 ### Azkars
 
 <div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
 <img src="/src/assets/images/6.jpg" height="400">
-<img src="/src/assets/images/20.PNG" height="400">
+<img src="/src/assets/images/20.png" height="400">
 </div>
 <br/>
 <ul>
   <li>Content azkars</li>
   <li>Showing the zekr and the number of time to say and the mosund of it</li>
+</ul>
+
+
+### radio
+
+<div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
+<img src="/src/assets/images/20.png" height="400">
+</div>
+<br/>
 <ul>
+  <li>Over 120 reader live radio and other islamic channels</li>
+  <li>Searching the reader by his name</li>
+</ul>
+
+### Tilawha
+
+<div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
+<img src="/src/assets/images/11.jpg" height="400">
+<img src="/src/assets/images/6.png" height="400">
+</div>
+<br/>
+<ul>
+  <li>recording your tilawah</li>
+  <li>Showing a list for records as an accordion, and you can delete or share the voice via apps</li>
+</ul>
