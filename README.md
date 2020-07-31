@@ -17,9 +17,8 @@ islamic app
 <img src="/src/assets/images/8.jpg" height="400">
 </div>
 
-#### Feat
-*content by surahs names and juzs name
-*ability to listen to the ayah and go forward and backword scrolling to the specific ayah
-*showing the tafseer of the ayah and sharing the ayah as an image
-*put a mark when you stop in specific ayah that you can return to it easily
-*searching for an specific ayah by any keyword
+- Content by surahs names and juzs name
+- Ability to listen to the ayah and go forward and backword scrolling to the specific ayah
+- Showing the tafseer of the ayah and sharing the ayah as an image
+- Put a mark when you stop in specific ayah that you can return to it easily
+- Searching for an specific ayah by any keyword
