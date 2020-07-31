@@ -41,7 +41,7 @@ islamic app
 ### radio
 
 <div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
-<img src="/src/assets/images/10.png" height="400">
+<img src="/src/assets/images/10.jpg" height="400">
 </div>
 <br/>
 <ul>
