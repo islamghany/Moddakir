@@ -16,17 +16,23 @@ islamic app
 <img src="/src/assets/images/7.jpg" height="400">
 <img src="/src/assets/images/8.jpg" height="400">
 </div>
-- Content by surahs names and juzs name
-- Ability to listen to the ayah and go forward and backword scrolling to the specific ayah
-- Showing the tafseer of the ayah and sharing the ayah as an image
-- Put a mark when you stop in specific ayah that you can return to it easily
-- Searching for an specific ayah by any keyword.
-<br />
+<br/>
+<ul>
+  <li>Content by surahs names and juzs name</li>
+  <li>Ability to listen to the ayah and go forward and backword scrolling to the specific ayah</li>
+  <li>Put a mark when you stop in specific ayah that you can return to it easily</li>
+  <li>Put a mark when you stop in specific ayah that you can return to it easily</li>
+  <li>Searching for an specific ayah by any keyword</li>
+<ul>
+
 ### Azkars
 
 <div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
 <img src="/src/assets/images/6.jpg" height="400">
 <img src="/src/assets/images/20.PNG" height="400">
 </div>
-- Content azkars
-- Showing the zekr and the number of time to say and the mosund of it.
+<br/>
+<ul>
+  <li>Content azkars</li>
+  <li>Showing the zekr and the number of time to say and the mosund of it</li>
+<ul>
