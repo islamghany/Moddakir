@@ -27,8 +27,8 @@ islamic app
 
 <div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
 <img src="/src/assets/images/6.jpg" height="400">
-<img src="/src/assets/images/20.jpg" height="400">
+<img src="/src/assets/images/20.PNG" height="400">
 </div>
 <br/>
-- content azkars
+- Content azkars
 - Showing the zekr and the number of time to say and the mosund of it
