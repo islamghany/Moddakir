@@ -41,7 +41,7 @@ islamic app
 ### radio
 
 <div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
-<img src="/src/assets/images/20.png" height="400">
+<img src="/src/assets/images/10.png" height="400">
 </div>
 <br/>
 <ul>
@@ -57,6 +57,21 @@ islamic app
 </div>
 <br/>
 <ul>
-  <li>recording your tilawah</li>
+  <li>Recording your tilawah</li>
   <li>Showing a list for records as an accordion, and you can delete or share the voice via apps</li>
+</ul>
+
+### Settings
+
+<div style="display:flex; justify-content:space-between;flex-wrap:wrap;">
+<img src="/src/assets/images/9.jpg" height="400">
+<img src="/src/assets/images/5.png" height="400">
+<img src="/src/assets/images/2.jpg" height="400">
+<img src="/src/assets/images/5.jpg" height="400">
+<img src="/src/assets/images/4.jpg" height="400">
+</div>
+<br/>
+<ul>
+  <li>With schedule notifications, user can set time to recieve a notify to remind him for specifics work</li>
+  <li>Use can controll to the theme of the app in addition to changing the font for the app and for the quran font</li>
 </ul>
